@@ -1,0 +1,11 @@
+dao/imp/UserDAO.class
+dao/IInfoDAO.class
+service/IInfoService.class
+service/IUserService.class
+domain/Information.class
+dao/IUserDAO.class
+dao/imp/InfoDAO.class
+domain/User.class
+service/imp/UserService.class
+service/imp/InfoService.class
+dao/imp/DatabaseDAO.class

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=webstore/src\/main\/java&lt;com.packt.webstore.domain.repository{ProductRepository.java[ProductRepository" modifiers="513" timestamp="1429932855000"/>
+<typeInfo handle="=webstore/src\/main\/java&lt;com.packt.webstore.service{OrderService.java[OrderService" modifiers="513" timestamp="1430490120000"/>
+<typeInfo handle="=webstore/src\/main\/java&lt;com.packt.webstore.service{ProductService.java[ProductService" modifiers="513" timestamp="1429932900000"/>
+<typeInfo handle="=webstore/src\/main\/java&lt;com.packt.webstore.domain.repository{CustomerRepository.java[CustomerRepository" modifiers="513" timestamp="1429841559000"/>
+<typeInfo handle="=webstore/src\/main\/java&lt;com.packt.webstore.service{CustomerService.java[CustomerService" modifiers="513" timestamp="1429841511000"/>
+<typeInfo handle="=webstore/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_12.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1357208961000"/>
+<typeInfo handle="=community/src\/main\/java&lt;dao{IUserDAO.java[IUserDAO" modifiers="513" timestamp="1435077294000"/>
+<typeInfo handle="=community/src\/main\/java&lt;dao{IInfoDAO.java[IInfoDAO" modifiers="513" timestamp="1435099509000"/>
+<typeInfo handle="=community/src\/main\/java&lt;service{IUserService.java[IUserService" modifiers="513" timestamp="1435099034000"/>
+<typeInfo handle="=community/src\/main\/java&lt;service{IInfoService.java[IInfoService" modifiers="513" timestamp="1435099086000"/>
+<typeInfo handle="=ServletAndJsp/\/Users\/Sophia\/.m2\/repository\/javax\/servlet\/javax.servlet-api\/3.1.0\/javax.servlet-api-3.1.0.jar&lt;javax.servlet.http(HttpServlet.class[HttpServlet" modifiers="1057" timestamp="1429744889000"/>
+</typeInfoHistroy>

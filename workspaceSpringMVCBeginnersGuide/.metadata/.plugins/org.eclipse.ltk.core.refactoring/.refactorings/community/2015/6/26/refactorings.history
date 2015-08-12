@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;service.IInforService&apos; to &apos;IInfoService&apos;&#x0A;- Original project: &apos;community&apos;&#x0A;- Original element: &apos;service.IInforService&apos;&#x0A;- Renamed element: &apos;service.IInfoService&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;IInforService&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;service{IInforService.java[IInforService" matchStrategy="1" name="IInfoService" qualified="false" references="true" similarDeclarations="false" stamp="1435099086080" textual="false" version="1.0"/>
+</session>

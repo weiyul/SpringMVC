@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:09:22:49 -0700] "GET /ServletAndJsp/HelloWorldServlet.view HTTP/1.1" 200 160 http-bio-8080-exec-1 40
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:09:22:49 -0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:09:38:02 -0700] "GET /ServletAndJsp/HelloWorldServlet.view HTTP/1.1" 200 160 http-bio-8080-exec-5 7
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:09:38:05 -0700] "GET /ServletAndJsp HTTP/1.1" 302 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:09:38:06 -0700] "GET /ServletAndJsp/ HTTP/1.1" 200 85 http-bio-8080-exec-8 1029
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:09:38:39 -0700] "GET /ServletAndJsp/ HTTP/1.1" 200 85 http-bio-8080-exec-9 24
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:09:42:12 -0700] "GET /ServletAndJsp/date.jsp HTTP/1.1" 200 85 http-bio-8080-exec-1 85
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:09:44:05 -0700] "GET /ServletAndJsp/date.jsp HTTP/1.1" 200 90 http-bio-8080-exec-2 87
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:09:45:42 -0700] "GET /ServletAndJsp/date.jsp HTTP/1.1" 200 90 http-bio-8080-exec-1 899
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:09:46:22 -0700] "GET /ServletAndJsp/date.jsp HTTP/1.1" 200 99 http-bio-8080-exec-2 76
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:09:47:07 -0700] "GET /ServletAndJsp/date.jsp HTTP/1.1" 200 122 http-bio-8080-exec-3 80
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:10:12:19 -0700] "GET /ServletAndJsp/date.jsp HTTP/1.1" 200 122 http-bio-8080-exec-1 78
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:10:12:21 -0700] "GET /ServletAndJsp HTTP/1.1" 302 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:10:12:21 -0700] "GET /ServletAndJsp/ HTTP/1.1" 302 - http-bio-8080-exec-2 956
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:10:12:21 -0700] "GET /ServletAndJsp/ HTTP/1.1" 302 - http-bio-8080-exec-4 200
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:10:12:21 -0700] "GET /ServletAndJsp/sayHello.jsp HTTP/1.1" 200 610 http-bio-8080-exec-6 84
+0:0:0:0:0:0:0:1 - - [22/Jun/2015:10:42:14 -0700] "GET /ServletAndJsp/Garfield.jsp HTTP/1.1" 200 408 http-bio-8080-exec-8 166

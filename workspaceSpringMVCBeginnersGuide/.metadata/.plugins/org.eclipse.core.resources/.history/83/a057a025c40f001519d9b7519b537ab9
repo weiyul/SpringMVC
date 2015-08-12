@@ -1,0 +1,5 @@
+package com.Sophia.eBook.chapter01.hibernate;
+
+public class Message {
+
+}

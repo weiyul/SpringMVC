@@ -1,0 +1,16 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  
+  <servlet>
+    <servlet-name>catServlet</servlet-name>
+    <servlet-class>com.Sophia.web.hibernate.servlet.CatServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>catServlet</servlet-name>
+    <url-pattern>/catServlet</url-pattern>
+  </servlet-mapping>
+</web-app>
